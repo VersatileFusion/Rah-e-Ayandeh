@@ -98,7 +98,7 @@ To run this project, you need:
 
 1. **کلون کردن مخزن**:
    ```bash
-   git clone https://github.com/ErfanAhmadvand/rah-e-ayandeh.git
+   git clone https://github.com/VersatileFusion/Rah-e-Ayandeh.git
    cd rah-e-ayandeh
    ```
 
@@ -163,7 +163,7 @@ To run this project, you need:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ErfanAhmadvand/rah-e-ayandeh.git
+   git clone https://github.com/VersatileFusion/Rah-e-Ayandeh.git
    cd rah-e-ayandeh
    ```
 
@@ -358,12 +358,10 @@ To run this project, you need:
 
 **نام**: عرفان احمدوند  
 **تماس**: +98 9109924707  
-**ایمیل**: info@rahayandeh.ir
 </div>
 
 **Name**: Erfan Ahmadvand  
 **Contact**: +98 9109924707  
-**Email**: info@rahayandeh.ir
 
 ## مجوز | License
 
